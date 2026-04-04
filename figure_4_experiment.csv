@@ -1,0 +1,9 @@
+Condition,Output,Input,Start,End
+Baseline,17.2,115.8,2,5
+Baseline,9.8,41.7,2,6
+Baseline,18.9,37.7,3,4
+Baseline,24.2,69.4,1,8
+Prototype,21.5,30.7,0,5
+Prototype,29.4,16.6,5,3
+Prototype,7.5,44.1,2,6
+Prototype,26.3,12.8,1,4

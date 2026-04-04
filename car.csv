@@ -1,0 +1,29 @@
+Name,Miles_per_Gallon,Cylinders,Displacement,Horsepower,Weight_in_lbs,Acceleration,Year,Origin
+toyota corona hardtop,24,4,113,95,2278,15.5,1/1/72,Japan
+dodge colt hardtop,25,4,97.5,80,2126,17,1/1/72,USA
+volkswagen type 3,23,4,97,54,2254,23.5,1/1/72,Europe
+chevrolet vega,20,4,140,90,2408,19.5,1/1/72,USA
+ford pinto runabout,21,4,122,86,2226,16.5,1/1/72,USA
+chevrolet impala,13,8,350,165,4274,12,1/1/72,USA
+pontiac catalina,14,8,400,175,4385,12,1/1/72,USA
+plymouth fury iii,15,8,318,150,4135,13.5,1/1/72,USA
+ford galaxie 500,14,8,351,153,4129,13,1/1/72,USA
+amc ambassador sst,17,8,304,150,3672,11.5,1/1/72,USA
+mercury marquis,11,8,429,208,4633,11,1/1/72,USA
+buick lesabre custom,13,8,350,155,4502,13.5,1/1/72,USA
+oldsmobile delta 88 royale,12,8,350,160,4456,13.5,1/1/72,USA
+chrysler newport royal,13,8,400,190,4422,12.5,1/1/72,USA
+mazda rx2 coupe,19,3,70,97,2330,13.5,1/1/72,Japan
+amc matador (sw),15,8,304,150,3892,12.5,1/1/72,USA
+chevrolet chevelle concours (sw),13,8,307,130,4098,14,1/1/72,USA
+ford gran torino (sw),13,8,302,140,4294,16,1/1/72,USA
+plymouth satellite custom (sw),14,8,318,150,4077,14,1/1/72,USA
+volvo 145e (sw),18,4,121,112,2933,14.5,1/1/72,Europe
+volkswagen 411 (sw),22,4,121,76,2511,18,1/1/72,Europe
+peugeot 504 (sw),21,4,120,87,2979,19.5,1/1/72,Europe
+renault 12 (sw),26,4,96,69,2189,18,1/1/72,Europe
+ford pinto (sw),22,4,122,86,2395,16,1/1/72,USA
+datsun 510 (sw),28,4,97,92,2288,17,1/1/72,Japan
+toyouta corona mark ii (sw),23,4,120,97,2506,14.5,1/1/72,Japan
+dodge colt (sw),28,4,98,80,2164,15,1/1/72,USA
+toyota corolla 1600 (sw),27,4,97,88,2100,16.5,1/1/72,Japan

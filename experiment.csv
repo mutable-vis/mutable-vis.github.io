@@ -1,0 +1,13 @@
+Condition,Start,End,Input,Output
+Condition A,2,5,115.8,17.2
+Condition A,2,6,41.7,9.8
+Condition B,0,5,30.7,21.5
+Condition A,4,5,16.3,14.1
+Condition C,1,4,12.8,26.3
+Condition D,8,9,17.9,11.7
+Condition B,5,3,16.6,29.4
+Condition D,2,6,64.5,13.6
+Condition A,3,4,37.7,18.9
+Condition B,2,6,44.1,7.5
+Condition C,1,8,69.4,24.2
+Condition D,0,8,13.6,16.8
