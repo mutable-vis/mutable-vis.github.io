@@ -1,0 +1,9 @@
+Name,Radius,Distance,Earth Mass,Category
+Mercury,2439.7,0.39,0.0553,Terrestrial Planet
+Venus,6051.8,0.72,0.815,Terrestrial Planet
+Earth,6371.0,1.0,1.0,Terrestrial Planet
+Mars,3389.5,1.52,0.1075,Terrestrial Planet
+Jupiter,69911,5.2,317.8,Gas Giant
+Saturn,58232,9.58,95.2,Gas Giant
+Uranus,25362,19.22,14.6,Ice Giant
+Neptune,24622,30.05,17.2,Ice Giant
